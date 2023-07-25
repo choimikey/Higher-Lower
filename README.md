@@ -1,2 +1,2 @@
 # Higher-Lower
-This program is another question based game asking "
+This program is another question based game asking "Higher or Lower"
